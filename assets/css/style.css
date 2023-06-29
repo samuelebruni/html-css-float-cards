@@ -35,6 +35,7 @@ h1{
 h3{
     color: white;
     margin-left: 0.5rem;
+    margin-top: 0.5rem;
 }
 
 p{
@@ -44,6 +45,23 @@ p{
 
 .email_text{
     color: rgb(19, 144, 247);
+}
+
+img{
+    max-width: 100px;
+    float: left;
+    width: 100%;
+}
+
+
+
+.row{
+    margin-top: 3rem;
+}
+
+h3{
+    color: white;
+    margin-left: 0.5rem;
 }
 
 /*#endregion*/
@@ -77,13 +95,6 @@ p{
     height: 100px
 }
 
-/*endregion*/
-img{
-    max-width: 100px;
-    float: left;
-    width: 100%;
-}
-
 .card_text{
     float: left;
     font-size: 14px;
@@ -91,11 +102,4 @@ img{
     height: 100px;
 }
 
-.row{
-    margin-top: 3rem;
-}
-
-h3{
-    color: white;
-    margin-left: 0.5rem;
-}
+/*endregion*/
