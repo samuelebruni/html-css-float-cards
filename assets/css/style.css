@@ -24,7 +24,6 @@ h1{
 }
 
 .header_description{
-    margin-bottom: 1.5rem;
     color: black;
 }
 
@@ -39,12 +38,12 @@ h3{
 }
 
 p{
-    color: grey;
+    color: #f2efdb;
     margin: 10px;
 }
 
 .email_text{
-    color: rgb(19, 144, 247);
+    color: #3290b2;
 }
 
 img{
